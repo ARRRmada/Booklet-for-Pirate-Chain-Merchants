@@ -1,7 +1,7 @@
-#Acceptance of $ARRR
+# Acceptance of $ARRR
 ---
 
-##What is Pirate Chain?
+## What is Pirate Chain?
 
 Pirate Chain is a 100% privacy-oriented block-chain with its native crypto-currency $ARRR, that enables its users to send/receive anonymous payments online, without needing anyone's approval. 
 
@@ -9,7 +9,7 @@ Our block-chain uses zero-knowledge privacy technology to anonymize your transac
 
 https://pirate.black
 
-##What is ARRRmada?
+## What is ARRRmada?
 
 ARRRmada is a community of merchants that accept $ARRR. 
 All merchants that accept $ARRR are promoted via the official channels of Pirate Chain.
@@ -19,7 +19,7 @@ The ARRRmada is an open source collection of stores, service providers, and comp
 https://arrrmada.com
 ---
 
-##What we do and who we are
+## What we do and who we are
 
 The ARRRmada is a community project created and maintained by the Pirate Chain community.
 
@@ -36,7 +36,7 @@ CryptocurrencyCheckout is a payment gateway that provides plugins that make it e
 Further possibilities arise through a Shopify Script and an Opencart Solution to accept $ARRR on its website and online store.
 ---
 
-##Receive $ARRR Donations
+## Receive $ARRR Donations
 
 Receive anonymous donations on your website using our QR Code Donation Button Generator.
 
@@ -47,7 +47,7 @@ CryptoCurrencyCheckout you have the opportunity to receive $ARRR and many other 
 Cointree you can easily receive crypto donations. Generate your link and enter your $ARRR address. Paste the link anywhere you want to receive donations.
 ---
 
-##Why accept §ARRR
+## Why accept §ARRR
 
 Decentralized p2p without middlemen
 Buyers and sellers have full control over transactions
@@ -64,7 +64,7 @@ Real-time cross-border payments
 For privacy reasons
 ---
 
-##Contact and relevant links
+## Contact and relevant links
 
 Websites:
 https://pirate.black
