@@ -1,5 +1,5 @@
 # Booklet-for-Pirate-Chain-Merchants
-A printable booklet about Pirate Chain and [ARRRmada](https://arrrmada.com/). Shopping with $ARRR for merchants and customers.
+A printable booklet about [Pirate Chain](https://pirate.black) and [ARRRmada](https://arrrmada.com/). Shopping with $ARRR for merchants and customers.
 [ARRRmada Booklet PDF](https://github.com/ARRRmada/Booklet-for-Pirate-Chain-Merchants/files/12689793/booklet-qr.pdf)
 
 For this booklet, we were inspired by [ASchmidt1024](https://github.com/ASchmidt1024/monero-for-merchants-booklet), who did something similar for the Monero community. Thanks for that. Honor to whom honor is due. #privacymatters
@@ -12,7 +12,7 @@ For this booklet, we were inspired by [ASchmidt1024](https://github.com/ASchmidt
 
 ## How to contribute
 
-If you want to support ARRRmada and PirateChain, you want to translate this booklet into your local language, please do the following:
+If you want to support __ARRRmada__ and __Pirate Chain__, you want to translate this booklet into your local language, please do the following:
 
 - You need to fork this repository. Alternatively, please contact a responsible pirate in Discord or __ARRRmada__ via eMail
 - Add a new folder in directory translations, e.g. "de" for deutsch (german)
