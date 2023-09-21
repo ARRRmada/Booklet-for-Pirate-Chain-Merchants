@@ -9,7 +9,6 @@ Pirate Chain is a 100% privacy-oriented block-chain with its native crypto-curre
 
 Our block-chain uses zero-knowledge privacy technology to anonymize your transactions, therefore enabling you maximum privacy.
 
-https://pirate.black
 
 __What is ARRRmada?__
 
