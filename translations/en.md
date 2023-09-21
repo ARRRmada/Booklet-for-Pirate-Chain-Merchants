@@ -67,28 +67,16 @@ For privacy reasons
 __Contact and relevant links__
 
 Websites:
-https://pirate.black
-https://arrrmada.com
 
 Payment Options:
-https://cryptocurrencycheckout.com
 
 Donation Options:
-https://ARRRmada.com/donation_buttons
-https://cryptocurrencycheckout.com
-https://cointr.ee
 
 Wallets:
-https://pirate.black/wallets
 
 Social Media Pirate Chain:
-https://pirate.black/discord
-https://twitter.com/PirateChain
-https://t.me/piratechain
 
 Social Media ARRRmada:
-https://twitter.com/PirateARRRmada
-https://t.me/joinchat/Obq53Fel8bUxMDNh
 
 
 Support:
