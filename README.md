@@ -8,7 +8,7 @@ For this booklet, we were inspired by [ASchmidt1024](https://github.com/ASchmidt
 ![booklet-qr](https://github.com/ARRRmada/Booklet-for-Pirate-Chain-Merchants/assets/142297261/0bc14091-8034-43fa-a051-61391cd7e7d2)
 
 ## Available languages
-- [english](https://github.com/ARRRmada/Booklet-for-Pirate-Chain-Merchants/blob/main/translations/en/english.md)
+- [english](https://github.com/ARRRmada/Booklet-for-Pirate-Chain-Merchants/tree/main/translations/en)
 
 ## How to contribute
 
