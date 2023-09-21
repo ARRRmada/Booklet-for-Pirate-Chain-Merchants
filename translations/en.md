@@ -1,5 +1,5 @@
 # Acceptance of $ARRR
----
+
 
 ## What is Pirate Chain?
 
@@ -16,8 +16,6 @@ All merchants that accept $ARRR are promoted via the official channels of Pirate
 
 The ARRRmada is an open source collection of stores, service providers, and companies that accept $ARRR as a means of payment.
 
-https://arrrmada.com
----
 
 ## What we do and who we are
 
@@ -25,7 +23,7 @@ The ARRRmada is a community project created and maintained by the Pirate Chain c
 
 The effort is to share with merchants but also with customers and all other interested parties in this brochure the most important information needed to offer and accept payment with $ARRR.
 
-##Options to accept $ARRR
+## Options to accept $ARRR
 
 PiratePay is a fully decentralized, open source payment gateway. It allows merchants and retailers to accept Pirate Chain $ARRR on websites and stores.
 
@@ -34,7 +32,7 @@ VerusPay Gateway is a payment plugin that enables anonymous z-commerce on Wordpr
 CryptocurrencyCheckout is a payment gateway that provides plugins that make it easy to accept cryptocurrencies like $ARRR for your products and services.
 
 Further possibilities arise through a Shopify Script and an Opencart Solution to accept $ARRR on its website and online store.
----
+
 
 ## Receive $ARRR Donations
 
@@ -45,7 +43,7 @@ Our QR Donation Button is an easy way to receive anonymous $ARRR Donations on yo
 CryptoCurrencyCheckout you have the opportunity to receive $ARRR and many other cryptocurrency donations without any programming skills.
 
 Cointree you can easily receive crypto donations. Generate your link and enter your $ARRR address. Paste the link anywhere you want to receive donations.
----
+
 
 ## Why accept §ARRR
 
@@ -62,7 +60,7 @@ Fast anonymous payment transactions
 Payment option around the globe
 Real-time cross-border payments
 For privacy reasons
----
+
 
 ## Contact and relevant links
 
