@@ -13,7 +13,8 @@ If you want to support ARRRmada and PirateChain, you want to translate this book
 
 - You need to fork this repository. Alternatively, please contact a responsible pirate in Discord or __ARRRmada__ via eMail
 - Add a new folder in directory translations, e.g. "de" for deutsch (german)
-- Create a translation-deutsch.md and translate from the [english version](https://github.com/ARRRmada/Booklet-for-Pirate-Chain-Merchants/blob/main/translations/en/english.md)
+- Create a deutsch.md file and translate from the [english version](https://github.com/ARRRmada/Booklet-for-Pirate-Chain-Merchants/blob/main/translations/en/english.md)
 - At the end create a pull request
 
+For further help, please don't hesitate to contact a responsible person or directly the ARRRmada.
 Thank you for your support!!!
