@@ -2,7 +2,7 @@
 
 __Akzeptanz von $ARRR__
 
-Was ist Pirate Chain?
+__Was ist Pirate Chain?__
 
 Pirate Chain ist eine 100% datenschutzorientierte Blockchain mit ihrer eigenen Kryptowährung $ARRR, die es ihren Nutzern ermöglicht, anonyme Zahlungen online zu senden/empfangen, ohne dass jemand zustimmen muss. 
 
