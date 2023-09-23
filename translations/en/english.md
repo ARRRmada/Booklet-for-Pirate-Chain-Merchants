@@ -48,19 +48,19 @@ Cointree you can easily receive crypto donations. Generate your link and enter y
 
 __Why accept §ARRR__
 
-Decentralized p2p without middlemen
-Buyers and sellers have full control over transactions
-Cryptocurrencies offer a new payment option and attract new customers
-Discreet and private payment method
-All transactions are anonymous and shielded
-Send transactions with secret memo
+- Decentralized p2p without middlemen
+- Buyers and sellers have full control over transactions
+- Cryptocurrencies offer a new payment option and attract new customers
+- Discreet and private payment method
+- All transactions are anonymous and shielded
+- Send transactions with secret memo
 
-Payments are stored securely and privately on the Pirate Chain blockchain
-Low transaction fees
-Fast anonymous payment transactions
-Payment option around the globe
-Real-time cross-border payments
-For privacy reasons
+- Payments are stored securely and privately on the Pirate Chain blockchain
+- Low transaction fees
+- Fast anonymous payment transactions
+- Payment option around the globe
+- Real-time cross-border payments
+- For privacy reasons
 
 
 __Contact and relevant links__
