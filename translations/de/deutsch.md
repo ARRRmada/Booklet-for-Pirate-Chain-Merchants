@@ -49,32 +49,32 @@ __Warum $ARRR akzeptieren__
 
 -Dezentrales PeerToPeer Netzwerk ohne Mittelsmänner
 -Käufer und Verkäufer haben die volle Kontrolle über Transaktionen
-Kryptowährungen bieten eine neue Zahlungsoption und ziehen neue Kunden an
-Diskrete und private Zahlungsmethode
-Alle Transaktionen sind anonym und abgeschirmt
-Senden Sie Transaktionen mit einer geheimen Textnachricht
+-Kryptowährungen bieten eine neue Zahlungsoption und ziehen neue Kunden an
+-Diskrete und private Zahlungsmethode
+-Alle Transaktionen sind anonym und abgeschirmt
+-Senden Sie Transaktionen mit einer geheimen Textnachricht
 
-Zahlungen werden sicher und vertraulich auf der Pirate Chain Blockchain gespeichert
-Niedrige Transaktionsgebühren
-Schneller anonymer Zahlungsverkehr
-Zahlungsmöglichkeit rund um den Globus
-Grenzüberschreitende Zahlungen in Echtzeit
-Aus Gründen des Datenschutzes
+-Zahlungen werden sicher und vertraulich auf der Pirate Chain Blockchain gespeichert
+-Niedrige Transaktionsgebühren
+-Schneller anonymer Zahlungsverkehr
+-Zahlungsmöglichkeit rund um den Globus
+-Grenzüberschreitende Zahlungen in Echtzeit
+-Aus Gründen des Datenschutzes
 
 
 __Kontakt und relevante Links__
 
-Webseiten:
+-Webseiten:
 
-Zahlungsoptionen:
+-Zahlungsoptionen:
 
-Spenden-Optionen:
+-Spenden-Optionen:
 
-Wallets:
+-Wallets:
 
-Soziale Medien Piratenchain:
+-Soziale Medien Piratenchain:
 
-Soziale Medien ARRRmada:
+-Soziale Medien ARRRmada:
 
 
 Unterstützung:
