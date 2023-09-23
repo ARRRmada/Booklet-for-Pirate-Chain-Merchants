@@ -10,6 +10,7 @@ For this booklet, we were inspired by [ASchmidt1024](https://github.com/ASchmidt
 ## Available languages
 - [english](https://github.com/ARRRmada/Booklet-for-Pirate-Chain-Merchants/tree/main/translations/en)
 - [deutsch](https://github.com/ARRRmada/Booklet-for-Pirate-Chain-Merchants/tree/main/translations/de)
+- [espanol](https://github.com/ARRRmada/Booklet-for-Pirate-Chain-Merchants/tree/main/translations/es)
 
 ## How to contribute
 
