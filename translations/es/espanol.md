@@ -1,6 +1,6 @@
 # ARRRmada Booklet espanol
 
-Thanks to Orwell1984 who translated the text into Spanish.
+*Thanks to Orwell1984 who translated the text into Spanish.*
 
 __Aceptamos $ARRR__
 
