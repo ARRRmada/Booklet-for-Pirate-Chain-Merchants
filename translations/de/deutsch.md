@@ -51,9 +51,9 @@ __Warum $ARRR akzeptieren__
 
 -Käufer und Verkäufer haben die volle Kontrolle über Transaktionen
 
--Kryptowährungen bieten eine neue Zahlungsoption und ziehen neue Kunden an
--Diskrete und private Zahlungsmethode
--Alle Transaktionen sind anonym und abgeschirmt
+- Kryptowährungen bieten eine neue Zahlungsoption und ziehen neue Kunden an
+- Diskrete und private Zahlungsmethode
+- Alle Transaktionen sind anonym und abgeschirmt
 -Senden Sie Transaktionen mit einer geheimen Textnachricht
 
 -Zahlungen werden sicher und vertraulich auf der Pirate Chain Blockchain gespeichert
