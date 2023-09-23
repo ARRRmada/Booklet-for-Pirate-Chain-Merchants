@@ -48,7 +48,9 @@ Cointree können Sie ganz einfach Krypto-Spenden erhalten. Erzeugen Sie Ihren Li
 __Warum $ARRR akzeptieren__
 
 -Dezentrales PeerToPeer Netzwerk ohne Mittelsmänner
+
 -Käufer und Verkäufer haben die volle Kontrolle über Transaktionen
+
 -Kryptowährungen bieten eine neue Zahlungsoption und ziehen neue Kunden an
 -Diskrete und private Zahlungsmethode
 -Alle Transaktionen sind anonym und abgeschirmt
