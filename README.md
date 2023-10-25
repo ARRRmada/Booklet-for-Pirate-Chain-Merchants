@@ -11,6 +11,7 @@ For this booklet, we were inspired by [ASchmidt1024](https://github.com/ASchmidt
 - [english](https://github.com/ARRRmada/Booklet-for-Pirate-Chain-Merchants/tree/main/translations/en)
 - [deutsch](https://github.com/ARRRmada/Booklet-for-Pirate-Chain-Merchants/tree/main/translations/de)
 - [espanol](https://github.com/ARRRmada/Booklet-for-Pirate-Chain-Merchants/tree/main/translations/es)
+- [italiano](https://github.com/ARRRmada/Booklet-for-Pirate-Chain-Merchants/tree/main/translations/it)
 
 ## How to contribute
 
