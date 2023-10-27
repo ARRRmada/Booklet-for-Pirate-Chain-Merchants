@@ -22,7 +22,7 @@ If you want to support __ARRRmada__ and __Pirate Chain__, you want to translate 
 
 - You need to fork this repository. Alternatively, please contact a responsible pirate in Discord or __ARRRmada__ via eMail
 - Add a new folder in directory translations, e.g. "de" for deutsch (german)
-- Create a deutsch.md file and translate from the [english version](https://github.com/ARRRmada/Booklet-for-Pirate-Chain-Merchants/blob/main/translations/en/english.md)
+- Create a yourlanguage.md file and translate from the [english version](https://github.com/ARRRmada/Booklet-for-Pirate-Chain-Merchants/blob/main/translations/en/english.md)
 - At the end create a pull request
 
 For further help, please don't hesitate to contact a responsible person or directly the ARRRmada.
