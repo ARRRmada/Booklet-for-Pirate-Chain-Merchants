@@ -1,5 +1,5 @@
 # Booklet-for-Pirate-Chain-Merchants
-A printable booklet about [Pirate Chain](https://pirate.black) and [ARRRmada](https://arrrmada.com/). Shopping with $ARRR for merchants and customers.
+This booklet is a trifold brochure (A4, landscape format (297 × 210 mm) that you can download and print as PDF and PNG files about [Pirate Chain](https://pirate.black) and [ARRRmada](https://arrrmada.com/). Shopping with $ARRR for merchants and customers.
 [ARRRmada Booklet PDF](https://github.com/ARRRmada/Booklet-for-Pirate-Chain-Merchants/blob/main/translations/en/booklet-qr.pdf)
 
 For this booklet, we were inspired by [ASchmidt1024](https://github.com/ASchmidt1024/monero-for-merchants-booklet), who did something similar for the Monero community. Also thanks to John Crab. Honor to whom honor is due. __#privacymatters__
